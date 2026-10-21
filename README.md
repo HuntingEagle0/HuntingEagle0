@@ -65,18 +65,10 @@ I'm a passionate developer who enjoys exploring modern technology, learning new 
 
 ---
 
-### 📈 Contribution Activity
+### ⚡ Coding Vibes
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuntingEagle0&bg_color=0D1117&color=9B5DE5&line=6C3CE9&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuntingEagle0&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Profile Trophies" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="Coding GIF" />
 </p>
 
 ---
