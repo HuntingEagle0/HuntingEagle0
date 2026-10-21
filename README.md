@@ -55,7 +55,7 @@ I'm a passionate developer who enjoys exploring modern technology, learning new 
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HuntingEagle0&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=HuntingEagle0&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuntingEagle0&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages" />
 </p>
 
@@ -68,7 +68,7 @@ I'm a passionate developer who enjoys exploring modern technology, learning new 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuntingEagle0&bg_color=0D1117&color=9B5DE5&line=6C3CE9&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HuntingEagle0&bg_color=0D1117&color=9B5DE5&line=6C3CE9&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ I'm a passionate developer who enjoys exploring modern technology, learning new 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HuntingEagle0&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Profile Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HuntingEagle0&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="100%" alt="GitHub Profile Trophies" />
 </p>
 
 ---
